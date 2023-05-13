@@ -1,4 +1,4 @@
-## Design-of-Banking-Application
+# Design-of-Banking-Application
 Banking is an essential service for people of all ages, but
 especially for elderly people who may have limited mobility
 and access to financial resources. However, many banking
@@ -23,7 +23,7 @@ The project is significant because it can contribute to
 improving the quality of life and financial inclusion of
 elderly people.
 
-#TECHNICAL ASPECTS
+TECHNICAL ASPECTS
 
 ● Designing a user interface that is easy to read and
 interact with, considering the physical and cognitive
@@ -40,7 +40,7 @@ eliminate the need for passwords or PINs.
 providing information and education on how to use
 mobile banking and its benefits.
 
-#Key Features of Our Project:
+Key Features of Our Project:
 
 ● A user interface that is easy to read and interact with,
 considering the physical and cognitive limitations of
