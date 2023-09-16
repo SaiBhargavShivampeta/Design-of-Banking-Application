@@ -30,12 +30,15 @@ interact with, considering the physical and cognitive
 limitations of the elderly, such as presbyopia, color
 vision problems, hand-eye coordination and motor
 skills.
+
 ● Providing clear and simple instructions, feedback and
 error messages, using language that is familiar and
 understandable for the elderly.
+
 ● Ensuring security and trust by using biometric
 recognition, such as face or fingerprint scanning, to
 eliminate the need for passwords or PINs.
+
 ● Supporting financial inclusion and literacy by
 providing information and education on how to use
 mobile banking and its benefits.
@@ -45,14 +48,18 @@ Key Features of Our Project:
 ● A user interface that is easy to read and interact with,
 considering the physical and cognitive limitations of
 the elderly.
+
 ● Improving the gestures and sensitivity of the app due
 to repeated touches of the application.
+
 ● Clear and simple instructions, feedback and error
 messages, using language that is familiar and
 understandable for the elderly.
+
 ● Security and trust features, such as biometric
 recognition, encryption and fraud alerts, to protect the
 personal and financial information of the elderly.
+
 ● Convenience, unlimited access and
 cost-effectiveness features, such as mobile check
 deposit, bill payments, loan payments and money
